@@ -49,14 +49,17 @@ header .container {
 
 .logo {
 		order: 2;
+        -webkit-order 2;
 }
 
 .mixcloud {
 		order: 3;
+        -webkit-order 3;
 }
 
 .facebook {
 		order: 1;
+        -webkit-order 1;
 }
 
 p {
@@ -156,16 +159,19 @@ form .submit {
     }
 		.logo {
 				order: 1;
+                -webkit-order 1;
 				flex-grow: 3;
 
 		}
 		.mixcloud {
 				order: 2;
+                -webkit-order 2;
 				margin-top: 1em;
 				margin-bottom: 1em;
 		}
 		.facebook {
 				order: 3;
+                -webkit-order 3;
 				margin-top: 1em;
 				margin-bottom: 1em;
 		}
