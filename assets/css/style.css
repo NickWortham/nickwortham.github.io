@@ -51,7 +51,6 @@ header .container {
 }
 
 .logo {
-        -webkit-box-ordinal-group: 3;
         -moz-box-ordinal-group: 3;
         -ms-flex-order: 3;
         -webkit-order: 3;
@@ -60,7 +59,6 @@ header .container {
 }
 
 .mixcloud {
-        -webkit-box-ordinal-group: 3;
         -moz-box-ordinal-group: 3;
         -ms-flex-order: 3;
         -webkit-order: 3;
@@ -69,7 +67,6 @@ header .container {
 }
 
 .facebook {
-        -webkit-box-ordinal-group: 3;
         -moz-box-ordinal-group: 3;
         -ms-flex-order: 3;
         -webkit-order: 3;
@@ -173,7 +170,6 @@ form .submit {
       display: none;
     }
 		.logo {
-                -webkit-box-ordinal-group: 3;
                 -moz-box-ordinal-group: 3;
                 -ms-flex-order: 3;
                 -webkit-order: 3;
@@ -183,7 +179,6 @@ form .submit {
 
 		}
 		.mixcloud {
-                -webkit-box-ordinal-group: 3;
                 -moz-box-ordinal-group: 3;
                 -ms-flex-order: 3;
                 -webkit-order: 3;
@@ -193,7 +188,6 @@ form .submit {
 				margin-bottom: 1em;
 		}
 		.facebook {
-                -webkit-box-ordinal-group: 3;
                 -moz-box-ordinal-group: 3;
                 -ms-flex-order: 3;
                 -webkit-order: 3;
