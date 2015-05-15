@@ -48,6 +48,8 @@ header .container {
 		display: flex;
 		justify-content: space-around;
 		flex-wrap: none;
+        margin: 0 auto;
+        text-align: center;
 }
 
 .logo {
