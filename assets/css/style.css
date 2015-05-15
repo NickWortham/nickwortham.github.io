@@ -228,6 +228,7 @@ form .submit {
 /* Header Breaks */
 @media (max-width: 545px) {
 		header .container {
+            -webkit-flex-wrap: wrap;
 			flex-wrap: wrap;
 		}
 }
