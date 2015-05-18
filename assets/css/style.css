@@ -169,9 +169,12 @@ form .submit {
 				max-width: 100%;
                 text-align: middle;
 		}
-    .home .logo{
-      display: none;
-    }
+        .home .logo{
+            display: none;
+        }
+        .home .mixcloud {
+            display: none;
+        }
 		.logo {
                 -moz-box-ordinal-group: 1;
                 -ms-flex-order: 1;
