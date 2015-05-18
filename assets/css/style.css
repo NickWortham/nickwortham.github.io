@@ -168,7 +168,6 @@ form .submit {
 		header .container {
 				max-width: 100%;
                 text-align: middle;
-                text-decoration: underline;
 		}
         .home .logo{
             display: none;
@@ -227,6 +226,7 @@ form .submit {
 		}
 		.home nav ul li a {
 				border: none !important;
+                text-decoration: underline;
 		}
 }
 
