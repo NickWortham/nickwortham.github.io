@@ -167,7 +167,7 @@ form .submit {
 		}
 		header .container {
 				max-width: 100%;
-                align: center;
+                text-align: middle;
 		}
     .home .logo{
       display: none;
