@@ -168,6 +168,7 @@ form .submit {
 		header .container {
 				max-width: 100%;
                 text-align: middle;
+                text-decoration: underline;
 		}
         .home .logo{
             display: none;
