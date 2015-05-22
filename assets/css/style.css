@@ -249,6 +249,7 @@ form .submit {
 .music{
   text-align: center;
   margin-bottom: 4em;
+  position: fixed;
 }
 
 
