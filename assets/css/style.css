@@ -45,7 +45,6 @@ header .container {
         display: -moz-box;
         display: -ms-flexbox;
         display: -webkit-flex;
-		display: flex;
 		justify-content: space-around;
 		flex-wrap: none;
         margin: 0 auto;
